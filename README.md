@@ -18,4 +18,6 @@ Jake Toporoff (Team Leader)</br>
 
 
 <b>Website:</b></br>
-https://serenity.ist.rit.edu/~soi6269/240/groupproject/
+https://serenity.ist.rit.edu/~soi6269/240/groupproject/ (Accessible from RIT campus only)
+
+www.samuelilesanmi.site/unix (public view)
