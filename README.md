@@ -10,7 +10,7 @@ Mysql</br>
 
 <b>Developers:</b></br>
 
-Samuel Ilesanmi (Content Creator/Ux Designer)</br>
+Samuel Ilesanmi (Content Creator/Front end - Developer)</br>
 Terence Budu-Biney (information architect/Backend developer)</br>
 Anika Niva (Graphic designer)</br>
 Doug Andrews (Game Developer)</br>
